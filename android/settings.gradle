@@ -1,0 +1,3 @@
+rootProject.name = 'JestBrokenPromises'
+
+include ':app'
