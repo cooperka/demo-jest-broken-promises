@@ -1,8 +1,8 @@
-# JestBrokenPromises
+# immutable-parse demo
 
-Demo project showing how `Promise` testing is broken in Jest v15.1.1 with React Native v0.33.0.
+Demo project showing how `JSON.parse` is incompatible with `Immutable.fromJS` in Jest v15.1.1.
 
-See the relevant tests [here](__tests__).
+See the relevant test [here](__tests__/jsonParse.js).
 
 ## Usage
 
@@ -11,5 +11,5 @@ See the relevant tests [here](__tests__).
 
 ## Issue
 
-I've opened an issue [here](https://github.com/facebook/jest/issues/1760)
+I've opened an issue [here](https://github.com/facebook/jest/issues/1822)
 for discussion.
