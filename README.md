@@ -8,3 +8,8 @@ See the relevant tests [here](__tests__).
 
 1. `npm install`
 2. `npm test`
+
+## Issue
+
+I've opened an issue [here](https://github.com/facebook/jest/issues/1760)
+for discussion.
