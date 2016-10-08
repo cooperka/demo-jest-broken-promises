@@ -1,6 +1,6 @@
 # JestBrokenPromises
 
-Demo project showing how `Promise` testing is broken in Jest v15.1.1 with React Native v0.33.0.
+Demo project showing how `Promise` testing is broken in Jest v16.0 with React Native v0.34.
 
 See the relevant tests [here](__tests__).
 
